@@ -1,0 +1,7 @@
+.idea
+*.iml
+node_modules/
+*.log
+**/node_modules/
+**/uploads/
+dist/

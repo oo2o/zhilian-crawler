@@ -1,0 +1,19 @@
+{
+	"presets": [
+		[
+			"env",
+			{
+				"debug": false,
+				"targets": {
+					"node": "current"
+				}
+			}
+		]
+	],
+	"retainLines": true,
+	"plugins": [
+		"transform-decorators-legacy",
+		"transform-class-properties",
+		"transform-object-rest-spread"
+	]
+}
